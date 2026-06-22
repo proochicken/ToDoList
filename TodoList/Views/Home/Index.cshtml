@@ -1,0 +1,56 @@
+﻿@model TodoList.Models.TodoListViewModel
+
+@{
+    ViewData["Title"] = "My To-Do List";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center mb-4">📝 My To-Do List</h1>
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <form asp-controller="Home" asp-action="Add" method="post" class="d-flex">
+                <input type="text" name="text" class="form-control me-2" placeholder="Nhập công việc mới..." required />
+                <button type="submit" class="btn btn-primary">Thêm</button>
+            </form>
+        </div>
+    </div>
+
+    <ul class="list-group shadow-sm">
+        @if (!Model.Items.Any())
+        {
+            <li class="list-group-item text-center text-muted">Bạn chưa có công việc nào.</li>
+        }
+        else
+        {
+            foreach (var item in Model.Items)
+            {
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <div>
+                        @if (item.IsComplete)
+                        {
+                            <del class="text-muted">@item.Text</del>
+                        }
+                        else
+                        {
+                            <span>@item.Text</span>
+                        }
+                    </div>
+                    <div class="d-flex gap-2">
+                        @if (!item.IsComplete)
+                        {
+                            <form asp-controller="Home" asp-action="Complete" method="post">
+                                <input type="hidden" name="id" value="@item.Id" />
+                                <button type="submit" class="btn btn-success btn-sm">✔ Hoàn thành</button>
+                            </form>
+                        }
+                        <form asp-controller="Home" asp-action="Delete" method="post">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">🗑 Xóa</button>
+                        </form>
+                    </div>
+                </li>
+            }
+        }
+    </ul>
+</div>

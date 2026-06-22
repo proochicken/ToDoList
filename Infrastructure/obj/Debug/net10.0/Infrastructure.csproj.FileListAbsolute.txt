@@ -1,0 +1,17 @@
+D:\aspnet-learning\ToDoList\Infrastructure\bin\Debug\net10.0\Infrastructure.deps.json
+D:\aspnet-learning\ToDoList\Infrastructure\bin\Debug\net10.0\Infrastructure.dll
+D:\aspnet-learning\ToDoList\Infrastructure\bin\Debug\net10.0\Infrastructure.pdb
+D:\aspnet-learning\ToDoList\Infrastructure\bin\Debug\net10.0\Entities.dll
+D:\aspnet-learning\ToDoList\Infrastructure\bin\Debug\net10.0\UseCases.dll
+D:\aspnet-learning\ToDoList\Infrastructure\bin\Debug\net10.0\UseCases.pdb
+D:\aspnet-learning\ToDoList\Infrastructure\bin\Debug\net10.0\Entities.pdb
+D:\aspnet-learning\ToDoList\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.AssemblyReference.cache
+D:\aspnet-learning\ToDoList\Infrastructure\obj\Debug\net10.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnet-learning\ToDoList\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfoInputs.cache
+D:\aspnet-learning\ToDoList\Infrastructure\obj\Debug\net10.0\Infrastructure.AssemblyInfo.cs
+D:\aspnet-learning\ToDoList\Infrastructure\obj\Debug\net10.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\aspnet-learning\ToDoList\Infrastructure\obj\Debug\net10.0\Infrastr.15EFFBFE.Up2Date
+D:\aspnet-learning\ToDoList\Infrastructure\obj\Debug\net10.0\Infrastructure.dll
+D:\aspnet-learning\ToDoList\Infrastructure\obj\Debug\net10.0\refint\Infrastructure.dll
+D:\aspnet-learning\ToDoList\Infrastructure\obj\Debug\net10.0\Infrastructure.pdb
+D:\aspnet-learning\ToDoList\Infrastructure\obj\Debug\net10.0\ref\Infrastructure.dll

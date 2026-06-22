@@ -1,0 +1,11 @@
+D:\aspnet-learning\ToDoList\Entities\bin\Debug\net10.0\Entities.deps.json
+D:\aspnet-learning\ToDoList\Entities\bin\Debug\net10.0\Entities.dll
+D:\aspnet-learning\ToDoList\Entities\bin\Debug\net10.0\Entities.pdb
+D:\aspnet-learning\ToDoList\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnet-learning\ToDoList\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+D:\aspnet-learning\ToDoList\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+D:\aspnet-learning\ToDoList\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+D:\aspnet-learning\ToDoList\Entities\obj\Debug\net10.0\Entities.dll
+D:\aspnet-learning\ToDoList\Entities\obj\Debug\net10.0\refint\Entities.dll
+D:\aspnet-learning\ToDoList\Entities\obj\Debug\net10.0\Entities.pdb
+D:\aspnet-learning\ToDoList\Entities\obj\Debug\net10.0\ref\Entities.dll

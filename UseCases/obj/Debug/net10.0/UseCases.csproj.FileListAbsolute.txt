@@ -1,0 +1,15 @@
+D:\aspnet-learning\ToDoList\UseCases\obj\Debug\net10.0\UseCases.csproj.AssemblyReference.cache
+D:\aspnet-learning\ToDoList\UseCases\obj\Debug\net10.0\UseCases.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnet-learning\ToDoList\UseCases\obj\Debug\net10.0\UseCases.AssemblyInfoInputs.cache
+D:\aspnet-learning\ToDoList\UseCases\obj\Debug\net10.0\UseCases.AssemblyInfo.cs
+D:\aspnet-learning\ToDoList\UseCases\obj\Debug\net10.0\UseCases.csproj.CoreCompileInputs.cache
+D:\aspnet-learning\ToDoList\UseCases\bin\Debug\net10.0\UseCases.deps.json
+D:\aspnet-learning\ToDoList\UseCases\bin\Debug\net10.0\UseCases.dll
+D:\aspnet-learning\ToDoList\UseCases\bin\Debug\net10.0\UseCases.pdb
+D:\aspnet-learning\ToDoList\UseCases\bin\Debug\net10.0\Entities.dll
+D:\aspnet-learning\ToDoList\UseCases\bin\Debug\net10.0\Entities.pdb
+D:\aspnet-learning\ToDoList\UseCases\obj\Debug\net10.0\UseCases.csproj.Up2Date
+D:\aspnet-learning\ToDoList\UseCases\obj\Debug\net10.0\UseCases.dll
+D:\aspnet-learning\ToDoList\UseCases\obj\Debug\net10.0\refint\UseCases.dll
+D:\aspnet-learning\ToDoList\UseCases\obj\Debug\net10.0\UseCases.pdb
+D:\aspnet-learning\ToDoList\UseCases\obj\Debug\net10.0\ref\UseCases.dll
